@@ -1,0 +1,13 @@
+question_id,question
+Q1,How much of my bill is taxes?
+Q2,How many months in my history went above 200 units?
+Q3,What is the average cost per unit on this bill?
+Q4,How does this month's usage compare with the average of my previous months?
+Q5,Which month in my history had the highest usage and how many units was it?
+Q6,How much extra will I pay if I miss the due date?
+Q7,Can you explain each charge on my bill in simple words?
+Q8,Do I have any arrears or credit carried over from previous bills and what does it mean?
+Q9,How many days do I have between the bill issue date and the due date?
+Q10,If I use 20% more units next month at the same average cost per unit what would my bill roughly be?
+Q11,What is the single biggest component of my bill?
+Q12,Is there anything unusual on this bill that I should know about?
